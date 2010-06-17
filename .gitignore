@@ -1,0 +1,6 @@
+*.lock
+*.log
+lib_managed/*
+project/boot/scala-2.7.7/*
+project/build/target/*
+target/*
